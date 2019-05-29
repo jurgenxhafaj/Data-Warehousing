@@ -6,3 +6,5 @@ The goal of this class was to organize data from different sources, connect them
 The program used for data warehousing was Oracle SQL Developer 2008.
 
 The class was led by Dr. Tom Carlile, Tarleton State University.
+
+Author: Jurgen Xhafaj
